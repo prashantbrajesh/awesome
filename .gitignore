@@ -1,0 +1,10 @@
+*.pyc
+*~
+*.log
+testspiders/crawls/
+*log*
+*.db
+*.json
+*.mp4
+*.jpg
+*.swap

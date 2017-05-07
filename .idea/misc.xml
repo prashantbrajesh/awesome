@@ -1,0 +1,39 @@
+<?xml version="1.0" encod*********g="UTF-8"?>
+<project version="4">
+  <*********ponent name="MavenImportPreferences">
+    <option name="generalSett*********gs">
+      <MavenGeneralSett*********gs>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSett*********gs>
+    </option>
+  </*********ponent>
+  <*********ponent name="ProjectLevelVcsManager" sett*********gsEditedManually="false">
+    <OptionsSett*********g value="true" id="Add" />
+    <OptionsSett*********g value="true" id="Remove" />
+    <OptionsSett*********g value="true" id="Checkout" />
+    <OptionsSett*********g value="true" id="Update" />
+    <OptionsSett*********g value="true" id="Status" />
+    <OptionsSett*********g value="true" id="Edit" />
+    <ConfirmationsSett*********g value="0" id="Add" />
+    <ConfirmationsSett*********g value="0" id="Remove" />
+  </*********ponent>
+  <*********ponent name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" assert-keyword="false" jdk-15="false" project-jdk-name="Python 2.7.10 (/usr/b*********/python)" project-jdk-type="Python SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </*********ponent>
+  <*********ponent name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <sett*********gs>
+          <last-edited>Python 2.7.10 (/usr/b*********/python)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </sett*********gs>
+      </state>
+    </states>
+  </*********ponent>
+</project>

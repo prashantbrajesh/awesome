@@ -1,0 +1,1166 @@
+<?xml version="1.0" encod*********g="UTF-8"?>
+<project version="4">
+  <*********ponent name="ChangeListManager">
+    <list default="true" id="0e09b73d-d209-45f5-8538-602675c0bd98" name="Default" *********ment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testspiders/spiders/RunFollowAll.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/read.me" afterPath="$PROJECT_DIR$/read.me" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testspiders/spiders/put.py" afterPath="$PROJECT_DIR$/testspiders/spiders/put.py" />
+    </list>
+    <ignored path="awesome.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACK*********G_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </*********ponent>
+  <*********ponent name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/awesome$RunFollowAll.coverage" NAME="RunFollowAll Coverage Results" MODIFIED="1483273206041" SOURCE_PROVIDER="*********.*********tellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRAC*********G_ENABLED="false" WORK*********G_DIRECTORY="$PROJECT_DIR$/testspiders/spiders" />
+  </*********ponent>
+  <*********ponent name="CreatePatch*********mitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </*********ponent>
+  <*********ponent name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <*********ponent name="FavoritesManager">
+    <favorites_list name="awesome" />
+  </*********ponent>
+  <*********ponent name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="read.me" p*********ned="false" current-*********-tab="false">
+        <entry file="file://$PROJECT_DIR$/read.me">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret l*********e="37" column="148" selection-start-l*********e="37" selection-start-column="148" selection-end-l*********e="37" selection-end-column="148" />
+              <fold*********g />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="put.py" p*********ned="false" current-*********-tab="false">
+        <entry file="file://$PROJECT_DIR$/testspiders/spiders/put.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret l*********e="192" column="29" selection-start-l*********e="192" selection-start-column="29" selection-end-l*********e="192" selection-end-column="29" />
+              <fold*********g>
+                <element signature="e#0#63#0" expanded="true" />
+                <marker date="1483273137000" expanded="true" signature="509:619" ph="SELECT Total... ScrapedDomiansTable" />
+                <marker date="1483273137000" expanded="true" signature="1171:1319" ph="*********sert *********to URDAILY.ScrapedDomiansTable... " />
+                <marker date="1483273137000" expanded="true" signature="4370:4498" ph="*********SERT *********TO miss*********g_value... " />
+              </fold*********g>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dedomil.log" p*********ned="false" current-*********-tab="false">
+        <entry file="file://$PROJECT_DIR$/testspiders/dedomil.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret l*********e="0" column="0" selection-start-l*********e="0" selection-start-column="0" selection-end-l*********e="0" selection-end-column="0" />
+              <fold*********g />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="debomili.log" p*********ned="false" current-*********-tab="false">
+        <entry file="file://$PROJECT_DIR$/testspiders/debomili.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret l*********e="0" column="0" selection-start-l*********e="0" selection-start-column="0" selection-end-l*********e="0" selection-end-column="0" />
+              <fold*********g />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="likewap.log" p*********ned="false" current-*********-tab="false">
+        <entry file="file://$PROJECT_DIR$/testspiders/likewap.log">
+          <provider selected="true" editor-type-id="LargeFileEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mr.log" p*********ned="false" current-*********-tab="false">
+        <entry file="file://$PROJECT_DIR$/mr.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret l*********e="0" column="0" selection-start-l*********e="0" selection-start-column="0" selection-end-l*********e="0" selection-end-column="0" />
+              <fold*********g />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="followall.py" p*********ned="false" current-*********-tab="false">
+        <entry file="file://$PROJECT_DIR$/testspiders/spiders/followall.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret l*********e="29" column="27" selection-start-l*********e="29" selection-start-column="27" selection-end-l*********e="29" selection-end-column="27" />
+              <fold*********g />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunFollowAll.py" p*********ned="false" current-*********-tab="true">
+        <entry file="file://$PROJECT_DIR$/testspiders/spiders/RunFollowAll.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret l*********e="11" column="75" selection-start-l*********e="11" selection-start-column="75" selection-end-l*********e="11" selection-end-column="75" />
+              <fold*********g>
+                <element signature="e#0#41#0" expanded="true" />
+              </fold*********g>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sett*********gs.py" p*********ned="false" current-*********-tab="false">
+        <entry file="file://$PROJECT_DIR$/testspiders/sett*********gs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret l*********e="9" column="21" selection-start-l*********e="9" selection-start-column="21" selection-end-l*********e="9" selection-end-column="21" />
+              <fold*********g />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </*********ponent>
+  <*********ponent name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </*********ponent>
+  <*********ponent name="Git.Sett*********gs">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </*********ponent>
+  <*********ponent name="GradleLocalSett*********gs">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </*********ponent>
+  <*********ponent name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testspiders/sett*********gs.py" />
+        <option value="$PROJECT_DIR$/testspiders/spiders/followall.py" />
+        <option value="$PROJECT_DIR$/read.me" />
+        <option value="$PROJECT_DIR$/testspiders/spiders/put.py" />
+        <option value="$PROJECT_DIR$/testspiders/spiders/RunFollowAll.py" />
+      </list>
+    </option>
+  </*********ponent>
+  <*********ponent name="JsBuildToolGruntFileManager" detection-done="true" sort*********g="DEF*********ITION_ORDER" />
+  <*********ponent name="JsBuildToolPackageJson" detection-done="true" sort*********g="DEF*********ITION_ORDER" />
+  <*********ponent name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sort*********g>DEF*********ITION_ORDER</sort*********g>
+  </*********ponent>
+  <*********ponent name="PhpServers">
+    <servers />
+  </*********ponent>
+  <*********ponent name="PhpWorkspaceProjectConfiguration" backward_*********patibility_performed="true" />
+  <*********ponent name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="810" />
+  </*********ponent>
+  <*********ponent name="ProjectLevelVcsManager" sett*********gsEditedManually="false">
+    <OptionsSett*********g value="true" id="Add" />
+    <OptionsSett*********g value="true" id="Remove" />
+    <OptionsSett*********g value="true" id="Checkout" />
+    <OptionsSett*********g value="true" id="Update" />
+    <OptionsSett*********g value="true" id="Status" />
+    <OptionsSett*********g value="true" id="Edit" />
+    <ConfirmationsSett*********g value="0" id="Add" />
+    <ConfirmationsSett*********g value="0" id="Remove" />
+  </*********ponent>
+  <*********ponent name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awesome" />
+              <option name="myItemType" value="*********.*********tellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awesome" />
+              <option name="myItemType" value="*********.*********tellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awesome" />
+              <option name="myItemType" value="*********.*********tellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awesome" />
+              <option name="myItemType" value="*********.*********tellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awesome" />
+              <option name="myItemType" value="*********.*********tellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testspiders" />
+              <option name="myItemType" value="*********.*********tellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awesome" />
+              <option name="myItemType" value="*********.*********tellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awesome" />
+              <option name="myItemType" value="*********.*********tellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testspiders" />
+              <option name="myItemType" value="*********.*********tellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spiders" />
+              <option name="myItemType" value="*********.*********tellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </*********ponent>
+  <*********ponent name="Properties*********ponent">
+    <property name="sett*********gs.editor.selected.configurable" value="preferences.plug*********Manager" />
+    <property name="sett*********gs.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../api/prototype/pom.xml" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolW*********dowFactoryState" value="false" />
+    <property name="js-jscs-node*********terpreter" value="/usr/local/b*********/node" />
+  </*********ponent>
+  <*********ponent name="RunManager" selected="Python.RunFollowAll">
+    <configuration default="false" name="RunFollowAll" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="*********TERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORK*********G_DIRECTORY" value="$PROJECT_DIR$/testspiders/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="awesome" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testspiders/spiders/RunFollowAll.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_*********MAND_L*********E" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbra*********s.idea.devkit.run.Plug*********ConfigurationType" factoryName="Plug*********">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_*********STALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_*********STALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNN*********G_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_L*********K" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TEST*********G_TYPE" value="0" />
+      <option name="*********STRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_*********STALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNN*********G_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/b*********/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MA*********_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORK*********G_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SW*********G_*********SPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="conta*********erStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MA*********_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORK*********G_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="s*********gleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="conta*********erStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MA*********_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORK*********G_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="s*********gleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MA*********_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORK*********G_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SW*********G_*********SPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="*********TERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORK*********G_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="awesome" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETT*********GS_FILE" value="" />
+      <option name="CUSTOM_SETT*********GS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackag*********g" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayer*********stance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMa*********Class" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMa*********Class" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="*********://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayer*********stance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSett*********gs>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdStr*********g" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSett*********gs>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <sett*********g name="vmparams" value="" />
+      <sett*********g name="cmdL*********e" value="run-app" />
+      <sett*********g name="passParentEnv" value="true" />
+      <sett*********g name="launchBrowser" value="true" />
+      <sett*********g name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MA*********_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORK*********G_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="s*********gleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MA*********_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORK*********G_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="s*********gleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MA*********_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORK*********G_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SW*********G_*********SPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotl*********">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MA*********_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORK*********G_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="awesome" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Kotl*********StandaloneScriptRunConfigurationType" factoryName="Kotl********* script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="work*********gDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" work*********g-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="*********TERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORK*********G_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="awesome" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="*********TERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORK*********G_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="awesome" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="*********TERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORK*********G_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="awesome" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_*********MAND_L*********E" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Spr*********gBootApplicationConfigurationType" factoryName="Spr*********g Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MA*********_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORK*********G_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="s*********gleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MA*********_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORK*********G_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="s*********gleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="*********TERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORK*********G_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="awesome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-*********terpreter>project</node-*********terpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <*********mand value="run-script" />
+      <scripts />
+      <node-*********terpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-*********terpreter>project</node-*********terpreter>
+      <node-options />
+      <work*********g-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-k*********d>DIRECTORY</test-k*********d>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="*********TERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORK*********G_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="awesome" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="*********TERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORK*********G_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="awesome" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="*********TERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORK*********G_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="awesome" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="*********TERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORK*********G_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="awesome" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="*********TERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORK*********G_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="awesome" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item *********dex="0" class="java.lang.Str*********g" itemvalue="Python.RunFollowAll" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item *********dex="0" class="java.lang.Str*********g" itemvalue="Python.RunFollowAll" />
+      </list>
+    </recent_temporary>
+  </*********ponent>
+  <*********ponent name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </*********ponent>
+  <*********ponent name="SvnConfiguration">
+    <configuration />
+  </*********ponent>
+  <*********ponent name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e09b73d-d209-45f5-8538-602675c0bd98" name="Default" *********ment="" />
+      <created>1479540506438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1479540506438</updated>
+      <workItem from="1479540512014" duration="2487000" />
+      <workItem from="1481387525168" duration="1708000" />
+      <workItem from="1482670396833" duration="5279000" />
+      <workItem from="1483271808435" duration="1462000" />
+    </task>
+    <servers />
+  </*********ponent>
+  <*********ponent name="TimeTrack*********gManager">
+    <option name="totallyTimeSpent" value="10936000" />
+  </*********ponent>
+  <*********ponent name="ToolW*********dowManager">
+    <frame x="0" y="23" width="1440" height="810" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <w*********dow_*********fo id="Palette" active="false" anchor="right" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <w*********dow_*********fo id="TODO" active="false" anchor="bottom" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <w*********dow_*********fo id="Palette&#9;" active="false" anchor="left" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <w*********dow_*********fo id="Capture Analysis" active="false" anchor="right" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <w*********dow_*********fo id="Event Log" active="false" anchor="bottom" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <w*********dow_*********fo id="Maven Projects" active="false" anchor="right" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <w*********dow_*********fo id="Run" active="false" anchor="bottom" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38022283" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <w*********dow_*********fo id="Version Control" active="false" anchor="bottom" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <w*********dow_*********fo id="Term*********al" active="false" anchor="bottom" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <w*********dow_*********fo id="Capture Tool" active="false" anchor="left" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <w*********dow_*********fo id="Designer" active="false" anchor="right" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <w*********dow_*********fo id="Project" active="false" anchor="left" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12804006" sideWeight="0.49213484" order="3" side_tool="false" content_ui="*********bo" />
+      <w*********dow_*********fo id="Database" active="false" anchor="right" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <w*********dow_*********fo id="Structure" active="false" anchor="left" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <w*********dow_*********fo id="Ant Build" active="false" anchor="right" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <w*********dow_*********fo id="UI Designer" active="false" anchor="left" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <w*********dow_*********fo id="Debug" active="false" anchor="bottom" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <w*********dow_*********fo id="Favorites" active="false" anchor="left" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12804006" sideWeight="0.5078652" order="2" side_tool="true" content_ui="tabs" />
+      <w*********dow_*********fo id="Cvs" active="false" anchor="bottom" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <w*********dow_*********fo id="Message" active="false" anchor="bottom" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <w*********dow_*********fo id="*********mander" active="false" anchor="right" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <w*********dow_*********fo id="Hierarchy" active="false" anchor="right" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="*********bo" />
+      <w*********dow_*********fo id="*********spection" active="false" anchor="bottom" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <w*********dow_*********fo id="Thumbnails" active="false" anchor="bottom" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <w*********dow_*********fo id="F*********d" active="false" anchor="bottom" auto_hide="false" *********ternal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </*********ponent>
+  <*********ponent name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </*********ponent>
+  <*********ponent name="VcsContentAnnotationSett*********gs">
+    <option name="myLimit" value="2678400000" />
+  </*********ponent>
+  <*********ponent name="XDebuggerManager">
+    <breakpo*********t-manager />
+    <watches-manager />
+  </*********ponent>
+  <*********ponent name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </*********ponent>
+  <*********ponent name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/read.me">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret l*********e="0" column="0" selection-start-l*********e="0" selection-start-column="0" selection-end-l*********e="0" selection-end-column="0" />
+          <fold*********g />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testspiders/spiders/put.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret l*********e="56" column="0" selection-start-l*********e="56" selection-start-column="0" selection-end-l*********e="56" selection-end-column="0" />
+          <fold*********g>
+            <element signature="e#0#63#0" expanded="true" />
+            <marker date="1483273137000" expanded="true" signature="509:619" ph="SELECT Total... ScrapedDomiansTable" />
+            <marker date="1483273137000" expanded="true" signature="1171:1319" ph="*********sert *********to URDAILY.ScrapedDomiansTable... " />
+            <marker date="1483273137000" expanded="true" signature="4370:4498" ph="*********SERT *********TO miss*********g_value... " />
+          </fold*********g>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testspiders/dedomil.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret l*********e="0" column="0" selection-start-l*********e="0" selection-start-column="0" selection-end-l*********e="0" selection-end-column="0" />
+          <fold*********g />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testspiders/debomili.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret l*********e="0" column="0" selection-start-l*********e="0" selection-start-column="0" selection-end-l*********e="0" selection-end-column="0" />
+          <fold*********g />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testspiders/likewap.log">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mr.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret l*********e="0" column="0" selection-start-l*********e="0" selection-start-column="0" selection-end-l*********e="0" selection-end-column="0" />
+          <fold*********g />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testspiders/spiders/followall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret l*********e="14" column="20" selection-start-l*********e="14" selection-start-column="20" selection-end-l*********e="14" selection-end-column="20" />
+          <fold*********g />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testspiders/spiders/health.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2415">
+          <caret l*********e="0" column="0" selection-start-l*********e="0" selection-start-column="0" selection-end-l*********e="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testspiders/spiders/justfollow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret l*********e="0" column="0" selection-start-l*********e="0" selection-start-column="0" selection-end-l*********e="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testspiders/spiders/scray_fetch_thumb_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret l*********e="29" column="24" selection-start-l*********e="29" selection-start-column="24" selection-end-l*********e="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testspiders/spiders/generate_start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret l*********e="0" column="0" selection-start-l*********e="0" selection-start-column="0" selection-end-l*********e="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/logg*********g/__*********it__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret l*********e="0" column="0" selection-start-l*********e="0" selection-start-column="0" selection-end-l*********e="0" selection-end-column="0" />
+          <fold*********g />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testspiders/spiders/__*********it__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret l*********e="0" column="0" selection-start-l*********e="0" selection-start-column="0" selection-end-l*********e="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testspiders/dedomil.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret l*********e="0" column="0" selection-start-l*********e="0" selection-start-column="0" selection-end-l*********e="0" selection-end-column="0" />
+          <fold*********g />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testspiders/debomili.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret l*********e="0" column="0" selection-start-l*********e="0" selection-start-column="0" selection-end-l*********e="0" selection-end-column="0" />
+          <fold*********g />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testspiders/likewap.log">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mr.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret l*********e="0" column="0" selection-start-l*********e="0" selection-start-column="0" selection-end-l*********e="0" selection-end-column="0" />
+          <fold*********g />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/read.me">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret l*********e="37" column="148" selection-start-l*********e="37" selection-start-column="148" selection-end-l*********e="37" selection-end-column="148" />
+          <fold*********g />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testspiders/sett*********gs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret l*********e="9" column="21" selection-start-l*********e="9" selection-start-column="21" selection-end-l*********e="9" selection-end-column="21" />
+          <fold*********g />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testspiders/spiders/put.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret l*********e="192" column="29" selection-start-l*********e="192" selection-start-column="29" selection-end-l*********e="192" selection-end-column="29" />
+          <fold*********g>
+            <element signature="e#0#63#0" expanded="true" />
+            <marker date="1483273137000" expanded="true" signature="509:619" ph="SELECT Total... ScrapedDomiansTable" />
+            <marker date="1483273137000" expanded="true" signature="1171:1319" ph="*********sert *********to URDAILY.ScrapedDomiansTable... " />
+            <marker date="1483273137000" expanded="true" signature="4370:4498" ph="*********SERT *********TO miss*********g_value... " />
+          </fold*********g>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testspiders/spiders/followall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret l*********e="29" column="27" selection-start-l*********e="29" selection-start-column="27" selection-end-l*********e="29" selection-end-column="27" />
+          <fold*********g />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testspiders/spiders/RunFollowAll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret l*********e="11" column="75" selection-start-l*********e="11" selection-start-column="75" selection-end-l*********e="11" selection-end-column="75" />
+          <fold*********g>
+            <element signature="e#0#41#0" expanded="true" />
+          </fold*********g>
+        </state>
+      </provider>
+    </entry>
+  </*********ponent>
+</project>
